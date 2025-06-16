@@ -1,0 +1,41 @@
+Aircraft Name,Manufacturer Country,Weight (kg),Speed (km/h),Operational Range (km),Payload,Payload2,Type
+F-16 Fighting Falcon,United States,12000.00,2124.00,4200.00,AIM-120,AIM-9,Fighter
+Su-27 Flanker,Russia,30000.00,2500.00,3530.00,R-73,R-77,Fighter
+B-52 Stratofortress,United States,220000.00,1000.00,14000.00,Nuclear and conventional bombs,,Bomber
+Eurofighter Typhoon,Multi-national (Germany),11000,2495,2900,Meteor,IRIS-T,Fighter
+F/A-18 Hornet,United States,14500.00,1800.00,3330.00,AIM-7,AIM-120,Fighter
+MiG-29 Fulcrum,Russia,11000.00,2400.00,2100.00,R-27,R-73,Fighter
+Dassault Rafale,France,9500.00,2000.00,3700.00,Meteor,AASM,Fighter
+JAS 39 Gripen,Sweden,8000.00,2470.00,3200.00,IRIS-T,AIM-120,Fighter
+F-15 Eagle,United States,30000.00,2655.00,4600.00,AIM-7,AIM-120,Fighter
+Tornado IDS,Germany/UK,18500.00,2200.00,2300.00,Guided and unguided bombs,,Bomber
+A-10 Thunderbolt II,United States,11000.00,720.00,4000.00,GAU-8/A,unguided bombs,Fighter
+Su-30MKA,Russia,34000.00,2120.00,3000.00,R-77,KH-59,Fighter
+F-22 Raptor,United States,19000.00,2414.00,3000.00,AIM-120,AIM-9X,Fighter
+B-1B Lancer,United States,216000.00,1450.00,6000.00,Nuclear and conventional bombs,,Bomber
+F-35 Lightning II,United States,13200.00,1930.00,2200.00,AIM-120,GBU-31,Fighter
+Mirage 2000,France,9800.00,2400.00,2300.00,MICA,ASMP,Fighter
+MiG-21 Fishbed,Russia,3500.00,2175.00,1000.00,R-60,R-3,Fighter
+T-50 PAK FA,China,18000.00,2600.00,5500.00,R-77,K-100,Fighter
+Chengdu J-10,China,9500.00,2550.00,3100.00,PL-12,PL-8,Fighter
+Shenyang J-11,,18000.00,2500.00,3500.00,PL-12,PL-8,Fighter
+F-14 Tomcat,United States,20000.00,2485.00,3300.00,AIM-54,AIM-7,Fighter
+Northrop Grumman B-2,United States,40000.00,1010.00,10000.00,Nuclear and conventional bombs,,Bomber
+Boeing P-8 Poseidon,United States,38000.00,907.00,7500.00,Torpedo,AGM-84,Reconnaissance
+Lockheed U-2,United States,1000.00,800.00,7000.00,Reconnaissance cameras,,Reconnaissance
+Saab 37 Viggen,Sweden,13000.00,2390.00,1800.00,RB-71,AIM-9,Fighter
+Hawker Siddeley Buccaneer,United Kingdom,14000.00,1080.00,2000.00,Guided bombs,,Bomber
+BAE Systems Hawk,United Kingdom,3000.00,1200.00,1000.00,Unguided bombs,,Trainer
+North American F-86 Sabre,United States,7700.00,1070.00,1600.00,AIM-9,unguided bombs,Fighter
+McDonnell Douglas F-4 Phantom,United States,27000.00,2370.00,2400.00,AIM-7,AIM-9,Fighter
+Boeing 737 AEW&C,United States,30000.00,850.00,5000.00,Radar and reconnaissance systems,,Reconnaissance
+Lockheed Martin F-22,United States,19000.00,2414.00,3000.00,AIM-120,AIM-9X,Fighter
+Mitsubishi F-2,Japan,13800.00,2300.00,2500.00,AAM-3,AGM-86,Fighter
+Sukhoi Su-57,Russia,18000.00,2600.00,5500.00,R-77,K-77M,Fighter
+T-50 Golden Eagle,South Korea,14000.00,1800.00,2000.00,AIM-9,unguided bombs,Fighter
+Chengdu FC-1,China,8000.00,1800.00,2000.00,PL-8,PL-12,Fighter
+Yakovlev Yak-130,Russia,3000.00,1050.00,1500.00,Unguided bombs,,Trainer
+B-57 Canberra,United States,15000.00,1000.00,3000.00,Unguided bombs,,Bomber
+Aermacchi MB-339,Italy,3500.00,900.00,1500.00,Unguided bombs,,Trainer
+Dassault Mirage F1,France,8000.00,2300.00,2500.00,AGM-65,guided bombs,Fighter
+Lockheed Martin F-35B,United States,13200.00,1930.00,2200.00,AIM-120,GBU-31,Fighter
